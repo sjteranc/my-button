@@ -1,0 +1,21 @@
+/* App.css */
+button {
+  background-color: #ffcccb; 
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px; 
+  transition: background-color 0.3s ease; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  background-color: #ffb6c1; 
+}
+button:active {
+  background-color: #ff9a9e;
+}
